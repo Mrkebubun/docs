@@ -40,6 +40,8 @@ index hexa       coin
 4     0x80000004 Reddcoin
 5     0x80000005 Darkcoin
 6     0x80000006 Peercoin
+11    0x80000011 NuShares
+12    0x80000012 NuBits
 ===== ========== ================================
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
