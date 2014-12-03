@@ -50,3 +50,9 @@ What if I lose my TREZOR?
 -------------------------
 
 TREZOR comes with excellent support for paper wallets.  When you set up your TREZOR for the first time you will be told a list of secret words to write down.  Once you have written down this list, you can recover your Bitcoins at any time using a replacement TREZOR.
+
+Which wallets are compatible with TREZOR?
+-----------------------------------------
+
+- `MyTREZOR <http://www.mytrezor.com>`_ - full support
+- `MyTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_ - allows to import xpub + watch only mode
